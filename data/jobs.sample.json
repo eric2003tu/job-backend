@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "Full Stack Developer",
+    "company": "TechWave Solutions",
+    "location": "Kigali, Rwanda",
+    "description": "We are looking for an experienced Full Stack Developer to join our dynamic team. The ideal candidate will be responsible for developing and maintaining both front-end and back-end components of our web applications.\n\nResponsibilities:\n- Develop front-end website architecture using React.js\n- Design and develop APIs using Node.js\n- Work with databases and data storage solutions\n- Ensure responsiveness of applications\n\nRequirements:\n- 3+ years of experience in full stack development\n- Proficiency in JavaScript, React.js, and Node.js\n- Experience with database technologies like MongoDB or PostgreSQL\n- Knowledge of version control systems like Git",
+    "applicationMethod": {
+      "type": "email",
+      "value": "careers@techwave.rw"
+    },
+    "salary": "$2,500 - $3,500 per month",
+    "jobType": "Full-time",
+    "category": "Software Development",
+    "createdAt": "2023-01-15T08:30:00Z",
+    "updatedAt": "2023-01-15T08:30:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Marketing Specialist",
+    "company": "GrowthX Marketing",
+    "location": "Kigali, Rwanda",
+    "description": "GrowthX Marketing is seeking a talented Marketing Specialist to help develop and implement marketing strategies for our clients. The ideal candidate will have experience in digital marketing and content creation.\n\nResponsibilities:\n- Create and manage digital marketing campaigns\n- Develop content for social media platforms\n- Analyze campaign performance and metrics\n- Collaborate with the design team on marketing materials\n\nRequirements:\n- Bachelor's degree in Marketing or related field\n- 2+ years of experience in digital marketing\n- Excellent writing and communication skills\n- Experience with social media management tools",
+    "applicationMethod": {
+      "type": "link",
+      "value": "https://growthx.rw/careers"
+    },
+    "salary": "$1,800 - $2,300 per month",
+    "jobType": "Full-time",
+    "category": "Marketing",
+    "createdAt": "2023-01-17T10:15:00Z",
+    "updatedAt": "2023-01-17T10:15:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Customer Support Representative",
+    "company": "ConnectRwanda",
+    "location": "Remote (Rwanda-based)",
+    "description": "ConnectRwanda is looking for a Customer Support Representative to join our growing team. The ideal candidate will provide exceptional customer service to our clients via email, phone, and chat.\n\nResponsibilities:\n- Respond to customer inquiries via multiple channels\n- Troubleshoot basic technical issues\n- Escalate complex issues to the appropriate departments\n- Maintain customer records and documentation\n\nRequirements:\n- Excellent communication skills in English and Kinyarwanda\n- Previous customer service experience\n- Basic troubleshooting skills\n- Ability to work in shifts",
+    "applicationMethod": {
+      "type": "email",
+      "value": "jobs@connectrwanda.com"
+    },
+    "salary": "$800 - $1,200 per month",
+    "jobType": "Part-time",
+    "category": "Customer Service",
+    "createdAt": "2023-01-20T14:45:00Z",
+    "updatedAt": "2023-01-20T14:45:00Z"
+  },
+  {
+    "id": "4",
+    "title": "Project Manager",
+    "company": "BuildRite Construction",
+    "location": "Kigali, Rwanda",
+    "description": "BuildRite Construction is seeking an experienced Project Manager to oversee construction projects from inception to completion. The ideal candidate will have a strong background in construction management and excellent leadership skills.\n\nResponsibilities:\n- Plan and schedule project timelines\n- Coordinate with contractors and suppliers\n- Monitor project progress and budgets\n- Ensure compliance with safety regulations\n\nRequirements:\n- Bachelor's degree in Construction Management or related field\n- 5+ years of experience in construction project management\n- Strong leadership and communication skills\n- Knowledge of construction regulations in Rwanda",
+    "applicationMethod": {
+      "type": "link",
+      "value": "https://buildrite.rw/apply"
+    },
+    "salary": "$3,000 - $4,000 per month",
+    "jobType": "Contract",
+    "category": "Construction",
+    "createdAt": "2023-01-25T09:00:00Z",
+    "updatedAt": "2023-01-25T09:00:00Z"
+  },
+  {
+    "id": "5",
+    "title": "Administrative Assistant",
+    "company": "Global Health Partners",
+    "location": "Kigali, Rwanda",
+    "description": "Global Health Partners is looking for an Administrative Assistant to support our office operations. The ideal candidate will be organized, detail-oriented, and have excellent communication skills.\n\nResponsibilities:\n- Manage calendars and schedule meetings\n- Handle correspondence and phone calls\n- Organize files and documents\n- Assist with event planning and coordination\n\nRequirements:\n- Associate's degree or equivalent experience\n- 1+ years of administrative experience\n- Proficiency in Microsoft Office suite\n- Strong organizational skills",
+    "applicationMethod": {
+      "type": "email",
+      "value": "admin@ghp.org"
+    },
+    "salary": "$1,000 - $1,500 per month",
+    "jobType": "Full-time",
+    "category": "Administrative",
+    "createdAt": "2023-01-28T11:30:00Z",
+    "updatedAt": "2023-01-28T11:30:00Z"
+  }
+]
